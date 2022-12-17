@@ -7,7 +7,13 @@ Preparing my mind for the challenge that comes, and planning all the things to a
 
 Thoughts: I am a little bit nervous and anxious, due to the fear of failing before it even starts
 
-Day 1: 16 November 2022
+Day 1: 16 December 2022
 
 I managed to do my first 2 hours of the challenge. Currently I am following the free course from The Odin Project curriculum, I was studying and practicing how to manipulate the elements in the DOM. I was able to finish the first exercise, actually it was not a big deal.
 Thoughts: I am feeling great because I was able to figure out the solution for the exercise. >D
+
+Day 2: 17 December 2022
+
+After following a tutorial, made a drumkit using DOM Manipulation and EventListener
+
+Thoughts: I am feeling ok
