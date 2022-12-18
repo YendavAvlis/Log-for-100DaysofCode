@@ -17,3 +17,7 @@ Day 2: 17 December 2022
 After following a tutorial, made a drumkit using DOM Manipulation and EventListener
 
 Thoughts: I am feeling ok
+
+Day 3: 18 December 2022
+
+I did an analog clock
