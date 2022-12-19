@@ -21,3 +21,9 @@ Thoughts: I am feeling ok
 Day 3: 18 December 2022
 
 I did an analog clock
+
+Day 4: 19 December 2022
+Although the bad time management, I managed to practice JS for 1 hour... Not enough but, it is better than nothing...
+Today I practice the manipulation of CSS Variables with Javascript...
+
+Thought: I am feeling mentally tired. I must cut some of the things because I am tired!!! This is annoying...
