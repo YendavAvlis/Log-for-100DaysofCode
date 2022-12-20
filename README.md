@@ -27,3 +27,9 @@ Although the bad time management, I managed to practice JS for 1 hour... Not eno
 Today I practice the manipulation of CSS Variables with Javascript...
 
 Thought: I am feeling mentally tired. I must cut some of the things because I am tired!!! This is annoying...
+
+Day 5: 20 December 2022
+
+Today I have practice some of the most used methods in Javascript such as filter, map, sort and reduce.
+
+Thoughts: I am ok... :|
